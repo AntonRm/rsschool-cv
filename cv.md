@@ -23,3 +23,8 @@ Basic knowledge of *Html, Css, JS*.
               </div>
             </nav>
  ~~~
+ - ####*Education:*
+*Dnipropetrovsk National University*, *Physics and Technology Faculty.*
+- ####*English language:*
+Elementary.
+---
